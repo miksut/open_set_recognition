@@ -1,6 +1,6 @@
 # Development and Comparison of Open Set Classification Techniques on ImageNet
 
-This repository is associated with my Master Thesis at the Artificial Intelligence and Machine Learning (AIML) Group in the Department of Informatics at the University of Zurich. In this thesis, I conduct a systematic comparison of four relevant Open Set algorithms. The repository mirrors the original project structure on the IfI server **rolf** and consists of the following directories:
+This repository is associated with my [Master Thesis](https://www.merlin.uzh.ch/publication/show/22689) at the Artificial Intelligence and Machine Learning (AIML) Group in the Department of Informatics at the University of Zurich. In this thesis, I conduct a systematic comparison of four relevant Open Set algorithms. The repository mirrors the original project structure on the IfI server **rolf** and consists of the following directories:
 
 - **code**: contains the source code that builds the foundation of the comparison of the algorithms. This source code is organised in form of two Python packages (_eosa_ and _imageNet_protocols_). For more information on those packages as well as on running the experiments, please refer to the directory _code_.
 
