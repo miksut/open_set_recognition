@@ -1,0 +1,3 @@
+This directory contains the files required for handling ImageNet structure in the robustness library (https://github.com/MadryLab/robustness/blob/79d371fd799885ea5fe5553c2b749f41de1a2c4e/robustness/tools/imagenet_helpers.py#L40).
+These files have been part of ImageNet some time ago, but now they disappeared.
+But here they are.

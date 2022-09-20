@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+sklearn
+tqdm
+vast @ git+https://github.com/Vastlab/vast.git
